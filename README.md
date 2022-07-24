@@ -28,6 +28,10 @@ pandas, numpy, imbalanced-learn, scikit-learn, collections, warnings
 
 https://www.kaggle.com/code/devprabal/bmi-prediction-of-health-status/data
 
+# Visual Presentation of Data
+
+https://public.tableau.com/views/BMIIndexCategoryAnalysis/BreakdownofBMIIndexCategoryDataset?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Results:
 
 Six machine learning models were evaluated for this analysis: RandomOverSampler, SMOTE algorithm, RandomUnderSampler algorithm, SMOTEENN algorithm, BalancedRandomForestClassifier, and EasyEnsemble Classifier. Images of the outputs for each model are used to supplement this analysis. Outputs for each model were calculated from the imbalanced classification report. This method was imported from imblearnmetrics.
@@ -100,6 +104,6 @@ Next, precision of each model is calculated by the ratio of true positives to th
 
  Lastly, F1 score measures the ability of a classifier to find all positive instances. In other words, it is the fraction of positives that were correctly identified. A good classifier should have a score of 1, and a poor classifier would have a score closer to 0. BalancedRandomForestClassifier shines through again with a high recall score of 0.87. The lowest F1 score, 0.79, is exhibited by the EasyEnsembleClassifier mdoel.
 
-For further BMI prediction analysis, it would be best to proceed with the EBalancedRandomForestClassifier, which exhibited relatively high scores amongst all major metrics and therefore it performed the best. It is important to choose this model as it implements an algorithm that reduces bias and is also both precise and accurate in calculating generalized health status risk. Hospitals must have proper health status management and modeling to prevent false negatives, aka at-risk individuals that are misinterpreted as maintaining a normal BMI. In doing so, this leads to healthcare providers believing the patient is not at more risk relative to others because of false pretenses of the BMI. 
+For further BMI prediction analysis, it would be best to proceed with the BalancedRandomForestClassifier, which exhibited relatively high scores amongst all major metrics and therefore it performed the best. It is important to choose this model as it implements an algorithm that reduces bias and is also both precise and accurate in calculating generalized health status risk. Hospitals must have proper health status management and modeling to prevent false negatives, aka at-risk individuals that are misinterpreted as maintaining a normal BMI. In doing so, this leads to healthcare providers believing the patient is not at more risk relative to others because of false pretenses of the BMI. 
 
 
