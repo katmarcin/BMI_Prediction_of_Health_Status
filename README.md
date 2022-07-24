@@ -28,7 +28,7 @@ pandas, numpy, imbalanced-learn, scikit-learn, collections, warnings
 
 https://www.kaggle.com/code/devprabal/bmi-prediction-of-health-status/data
 
-# Visual Presentation of Data
+## Visual Presentation of Data
 
 https://public.tableau.com/views/BMIIndexCategoryAnalysis/BreakdownofBMIIndexCategoryDataset?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
