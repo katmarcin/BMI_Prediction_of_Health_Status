@@ -34,6 +34,7 @@ https://public.tableau.com/views/BMIIndexCategoryAnalysis/BreakdownofBMIIndexCat
 
 <img src="https://github.com/katmarcin/BMI_Prediction_of_Health_Status/blob/44ff67a3eb22b7302e5676adc866d5774d79afab/images/gender_breakdown.jpg" width="680" height="440" />
 
+Follow the Tableau link to view the dataset from different perspectives and attributes. The preceding image denotes gender breakdown and BMI index category breakdown from the original 5 indices.
 
 ## Results:
 
