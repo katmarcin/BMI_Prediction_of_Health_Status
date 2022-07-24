@@ -32,6 +32,7 @@ https://www.kaggle.com/code/devprabal/bmi-prediction-of-health-status/data
 
 https://public.tableau.com/views/BMIIndexCategoryAnalysis/BreakdownofBMIIndexCategoryDataset?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+<img src="https://github.com/katmarcin/BMI_Prediction_of_Health_Status/blob/44ff67a3eb22b7302e5676adc866d5774d79afab/images/gender_breakdown.jpg" width="680" height="440" />
 
 
 ## Results:
