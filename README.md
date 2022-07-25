@@ -14,7 +14,7 @@ This is an excellent use of machine learning that can be applied in medical rese
 
 ### Tools:
 
-Jupyter Notebook
+Jupyter Notebook, Tableau
 
 ### Language:
 
